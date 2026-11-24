@@ -1,0 +1,11 @@
+{
+  "observation_date": "2024-12-31",
+  "window_first_session": "2024-10-07",
+  "window_sessions": 60,
+  "baseline_sessions": 20,
+  "threshold_multiplier": 2.0,
+  "event_rule": "volume > 2 x mean volume of preceding 20 sessions (current day excluded), strict inequality",
+  "recency_basis": "calendar days to latest event in whole valid history",
+  "n_shares_rfm_valid": 486,
+  "calculation_version": "v1"
+}

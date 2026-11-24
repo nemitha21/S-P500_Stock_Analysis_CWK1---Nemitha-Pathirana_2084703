@@ -1,0 +1,18 @@
+exclusion_reasons,company,sector
+unequal_history,AppLovin,Communication Services
+unequal_history,Constellation Energy,Utilities
+unequal_history,Coinbase,Financials
+unequal_history,Expand Energy,Energy
+no_price_data,FedEx Freight,Industrials
+zero_volume_days,Ferguson Enterprises,Industrials
+unequal_history,GE HealthCare,Health Care
+unequal_history,GE Vernova,Industrials
+no_price_data,Honeywell Aerospace,Industrials
+unequal_history,Robinhood Markets,Financials
+no_price_data,Qnity Electronics,Information Technology
+unequal_history,Reddit,Communication Services
+no_price_data,Sandisk,Information Technology
+unequal_history,Solventum,Health Care
+zero_volume_days,Smurfit Westrock,Materials
+unequal_history,Veralto,Industrials
+no_price_data,Vylor,Consumer Staples
